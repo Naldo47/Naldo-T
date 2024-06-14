@@ -1,4 +1,53 @@
 body {
     background-image: url("./IMG_9279.JPG");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
    
 }
+
+.NL {
+
+    font-size: 80px;
+    color: rgb(100, 227, 252);
+    font-family: 'Cherry Bomb One', cursive;
+}
+
+.MB {
+
+    font-size: 50px;
+    color: rgb(100, 227, 252);
+    font-family: 'Cherry Bomb One', cursive;
+}
+
+button:hover {
+    background-color:#CC33FF  ;
+    color: rgb(185, 136, 136);
+    box-shadow: 0 0 10px #000 inset;
+  }
+  
+  
+      Awq34button:active {
+    font-size: 80%;
+    box-shadow: 0 0 10px #000 inset;
+  }
+  
+ 
+  button:focus  {
+    outline: none;
+    border-color: #8ac4ff;
+    box-shadow: 0 0 10px #000 inset;
+  }
+
+  /* button:hover {
+    font-size: 80%;
+  } */
+  
+
+  /* button {
+    font-family: 'Bungee Shade', cursive;
+    font-size: 70px;
+    color: #CC99CC;
+    line-height: 4.3;
+   
+  } */
